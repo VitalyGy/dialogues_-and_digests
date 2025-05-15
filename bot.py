@@ -25,8 +25,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-#API_TOKEN = '7933511249:AAFYQ_cbX6io6vvTQZI6S-0iZjquF0ILGHA'
-API_TOKEN = '7846606479:AAHKVA6VyRHU76H8nT9yjmNA8L4QFz3gl5U'
+API_TOKEN = 'ВАШ_ТОКЕН_БОТА'
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 UPLOAD_FOLDER = os.path.join(BASE_DIR, 'input_data')
