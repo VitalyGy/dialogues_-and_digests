@@ -19,10 +19,10 @@
 ## Структура  проекта
 project_root/   
 ├── dialog/  
-│   ├── research/  
-│   │   ├── README.md # выводы по исследованиям  
-│   │   └── clusters.ipynb # тетрадка с исследованиями  
-│   ├── main.py # основной скрипт  
+│       ├── research/  
+│       │   ├── README.md # выводы по исследованиям  
+│       │   └── clusters.ipynb # тетрадка с исследованиями  
+│       ├── main.py # основной скрипт  
 ├── input_data/  
 │   └── result.json # выгрузка из чата  
 ├── output/  
