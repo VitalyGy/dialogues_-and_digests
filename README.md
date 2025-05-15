@@ -101,6 +101,8 @@ API_TOKEN = 'ВАШ_ТОКЕН_БОТА'
 6. В боте раработает только мое решение(диалоги)
 
 ## Инструкция по использованию Telegram-бота для анализа данных
+https://github.com/VitalyGy/dialogues_and_digests/blob/main/dialog/Снимок%20экрана%202025-05-15%20122931.jpg
+![]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/VitalyGy/dialogues_and_digests/blob/main/dialog/Снимок%20экрана%202025-05-15%20122931.jpg)?raw=true)
 
 1. Начало работы:
 * Запустите бота в Telegram: Найдите бота по имени @DigestHelpBot или перейдите по ссылке: t.me/DigestHelpBot
