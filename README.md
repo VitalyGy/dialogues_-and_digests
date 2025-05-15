@@ -102,10 +102,7 @@ API_TOKEN = 'ВАШ_ТОКЕН_БОТА'
 
 ## Инструкция по использованию Telegram-бота для анализа данных
 
-
 https://github.com/VitalyGy/dialogues_and_digests/blob/main/dialog/Снимок%20экрана%202025-05-15%20122931.jpg?raw=true
-
-![](https://github.com/VitalyGy/dialogues_and_digests/blob/main/dialog/Снимок%20экрана%202025-05-15%20122931.jpg?raw=true)
 
 ![plot](.VitalyGy/dialogues_and_digests/blob/main/dialog/Снимок%20экрана%202025-05-15%20122931.jpg)
 
